@@ -2,17 +2,22 @@
 This project is a web-based utility billing system designed to streamline the process of billing residents in an apartment complex. It includes features such as user authentication, invoice generation, and payment tracking. The system was developed using HTML, CSS, Bootstrap, PHP, and MySQL.
 
 ## Features
-- **User Authentication: Secure login system for both administrators and residents.
-- **Invoice Generation: Automated generation of utility invoices based on consumption data.
-- **Payment Tracking: Keep track of residents' payments and outstanding balances.
-- **Responsive Design: Utilizes Bootstrap framework for responsive and mobile-friendly user interface.
+- **User Authentication:** Secure login system for both administrators and residents.
+- **Invoice Generation:** Automated generation of utility invoices based on consumption data.
+- **Payment Tracking:** Keep track of residents' payments and outstanding balances.
+- **Responsive Design:** Utilizes Bootstrap framework for responsive and mobile-friendly user interface.
 
 ## Technologies Used
 HTML
+
 CSS
+
 Bootstrap
+
 PHP
+
 MySQL
+
 
 ## Setup Instructions
 Clone the repository to your local machine.
