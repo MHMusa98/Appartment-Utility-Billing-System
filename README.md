@@ -27,17 +27,22 @@ Navigate to the project directory in your web server's root directory.
 Access the application through your web browser.
 
 ## Usage
-### Admin Panel:
-Accessible after logging in as an administrator. Here, administrators can manage user accounts, view invoices, and track payments.
-Resident Interface: After logging in as a resident, users can view their invoices, make payments, and track their payment history.
-Contributing
+- **Admin Panel:** Accessible after logging in as an administrator. Here, administrators can manage user accounts, view invoices, and track payments.
+- **Resident Interface:** After logging in as a resident, users can view their invoices, make payments, and track their payment history.
+  
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-## Fork the repository.
+Fork the repository.
+
 Create a new branch (git checkout -b feature/improvement).
+
 Make your changes.
+
 Commit your changes (git commit -am 'Add new feature').
+
 Push to the branch (git push origin feature/improvement).
+
 Create a new Pull Request.
 
 ## License
